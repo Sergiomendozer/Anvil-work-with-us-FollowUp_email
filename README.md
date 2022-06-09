@@ -11,4 +11,4 @@ HTML, CSS
 [View Project](https://sergiomendozer.github.io/Anvil-work-with-us-FollowUp_email/)
 
 ## Project Image
-<a href="url"><img src="/follow-up.png"  height="500" width="350" ></a>
+<a href="url"><img src="/follow-up.png"  height="450" width="350" ></a>
